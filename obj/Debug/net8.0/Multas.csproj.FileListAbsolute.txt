@@ -1,0 +1,14 @@
+C:\Users\2023202060011\source\repos\Multas\Multas\bin\Debug\net8.0\Multas.exe
+C:\Users\2023202060011\source\repos\Multas\Multas\bin\Debug\net8.0\Multas.deps.json
+C:\Users\2023202060011\source\repos\Multas\Multas\bin\Debug\net8.0\Multas.runtimeconfig.json
+C:\Users\2023202060011\source\repos\Multas\Multas\bin\Debug\net8.0\Multas.dll
+C:\Users\2023202060011\source\repos\Multas\Multas\bin\Debug\net8.0\Multas.pdb
+C:\Users\2023202060011\source\repos\Multas\Multas\obj\Debug\net8.0\Multas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023202060011\source\repos\Multas\Multas\obj\Debug\net8.0\Multas.AssemblyInfoInputs.cache
+C:\Users\2023202060011\source\repos\Multas\Multas\obj\Debug\net8.0\Multas.AssemblyInfo.cs
+C:\Users\2023202060011\source\repos\Multas\Multas\obj\Debug\net8.0\Multas.csproj.CoreCompileInputs.cache
+C:\Users\2023202060011\source\repos\Multas\Multas\obj\Debug\net8.0\Multas.dll
+C:\Users\2023202060011\source\repos\Multas\Multas\obj\Debug\net8.0\refint\Multas.dll
+C:\Users\2023202060011\source\repos\Multas\Multas\obj\Debug\net8.0\Multas.pdb
+C:\Users\2023202060011\source\repos\Multas\Multas\obj\Debug\net8.0\Multas.genruntimeconfig.cache
+C:\Users\2023202060011\source\repos\Multas\Multas\obj\Debug\net8.0\ref\Multas.dll
